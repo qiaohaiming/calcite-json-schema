@@ -1,2 +1,2 @@
 # calcite-json-schema
-json filter use sql in calcite
+use sql filter json
